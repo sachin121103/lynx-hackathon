@@ -61,6 +61,6 @@ minimizing risks.
 
 ## Our Algorithm
 
-The idea of our algorithm is implementing a trend line predicting 9
+TODO
 
 
